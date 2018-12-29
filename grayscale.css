@@ -35,7 +35,7 @@
   font-size: 1rem;
 }
 
-/*
+
 
 @media (min-width: 768px) {
   
@@ -46,10 +46,10 @@
 }
 
 @media (min-width: 992px) {
-  .masthead {
+  /*.masthead {
     height: 100vh;
     padding: 0;
-  }
+  }*/
   .masthead h1 {
     font-size: 6.5rem;
     line-height: 6.5rem;
@@ -59,7 +59,7 @@
     max-width: 30rem;
     font-size: 1.25rem;
   }
-}*/
+}
 
 .btn {
   -webkit-box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
